@@ -1,13 +1,13 @@
 ---
 layout: page
 title: Research
-description: Blue Ham's research
+description: Nayeon Lim's research
 ---
 
 
 
-#### <u>The effects of increased eye contact on feeding portions</u>
-*In this paper I estimate the effect of increased eye contact on the size of feeding portions delivered by my humans. Over a period of several months I varied the amount of time I spent in locked eye contact with my masters while secretely recording the total amount of food provided each day. The results incidate that the relationship between eye contact and portion size is concave, in that as eye contact increases, the portion size increases up until a point where it begins to decrease. Future research will examine whether time spent cuddling exhibits a similar relationship.*
+#### <u>Revisiting the Gender Wage Gap in Korea: Focusing on Working Hours by Occupation</u>
+*This paper explores the relationship between working hours and the residual gender wage gap in Korea. Because the labor practice of working long hours in Korea favors men, who tend to spend little time on domestic labor, long working hours can influence the residual gender wage gap by discriminating against women. We analyze this discrimination empirically using data from the wage structure parts of the Survey on Labor Conditions by Employment Types from 2009 to 2016, and find the following results. First, the returns from working long hours are not high in most occupations in Korea. Thus, long working hours in Korea could influence the residual gender wage gap through channels other than high overwork premiums in a few high-paying professional occupations. Second, we find that working hours have a positive effect on the residual gender wage gap in male-dominated occupations, but not in female-dominated ones. Thus, the labor practice of working long hours could be a primary factor explaining the large gender wage gap in Korea overall, where most occupations are male-dominated. Therefore, policymakers should pay more attention to working hours when addressing gender discrimination in Korean labor markets.*
 
 [click here for the most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/sample-working-paper.pdf)
 
